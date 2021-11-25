@@ -2,4 +2,4 @@
 <img align='right' src="https://media.giphy.com/media/MVN4gefJf2R8Y/giphy.gif" width="230">
 
 [![Linkedin: Nguyen Hoang](https://img.shields.io/badge/-nhh1807-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nhh1807/)](https://www.linkedin.com/in/nhh1807/)
-[![GitHub nhh0718](https://img.shields.io/github/followers/nhh0718?style=social)](https://github.com/Thaiane)
+[![GitHub nhh0718](https://img.shields.io/github/followers/nhh0718?style=social)](https://github.com/nhh0718)
